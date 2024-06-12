@@ -1,1 +1,1 @@
-# Jogo-de-Ping-Pong-JavaScript
+# JavaScript
